@@ -48,3 +48,13 @@
     transform: rotate(360deg);
   }
 }
+.lue{
+  display: block;
+  padding-left: 50px;
+  padding-bottom: 6px;
+}
+.btn{
+  display: block;
+  margin: 20px;
+}
+
